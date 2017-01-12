@@ -12,7 +12,7 @@
 <head>
     <meta charset = "utf8"/>
     <link rel="stylesheet" href="_css/estilo.css"/>
-    <title> AULA 2</title>
+    <title>Aula 01</title>
 </head>
 <body>
 <div>

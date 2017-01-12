@@ -10,7 +10,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="_css/estilo.css"/>
-    <title>$Title$</title>
+    <title>Aula 02</title>
 </head>
 <body>
 <div>
@@ -18,7 +18,13 @@
     $preco = (int)40;
     $desconto = (int)10;
     $precosfinal = $preco - (($preco /100) * $desconto);
-    echo "O preço final é ". $precosfinal;
+    echo "O preço final é  $precosfinal -----------";
+
+
+    $n1 = 3;
+    $n2 = $n1;
+    echo "$n1 é igual a $n2"
+
     ?>
 </div>
 </body>
