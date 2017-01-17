@@ -2,28 +2,25 @@
 /**
  * Created by PhpStorm.
  * User: leandro
- * Date: 11/01/2017
- * Time: 18:39
+ * Date: 16/01/2017
+ * Time: 11:57
  */ ?>
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
         "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+    <title>Resposta</title>
     <meta charset = "utf8"/>
     <link rel="stylesheet" href="_css/estilo.css"/>
-    <title>Aula 01</title>
 </head>
 <body>
 <div>
     <?php
-    $nome = "Leandro";
-    $idade = "29";
-    echo "$nome  tem $idade anos !";
-    $n = 4;
-    $no = (int)"Leandro";
-    echo $no;
+    $valor = $_GET["v"];
+    $rq = sqrt($valor);
+    echo " A raiz de $valor é igual a ".number_format($rq);
     ?>
+    <a href="aula_03.php">Voltar</a>
 </div>
 </body>
 </html>
