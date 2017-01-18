@@ -4,10 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Curso de PHP/.idea/Curso de PHP.iml" filepath="$PROJECT_DIR$/../Curso de PHP/.idea/Curso de PHP.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Curso de PHP/Estrutura Condicional (if)/.idea/estrutura_condicional.iml" filepath="$PROJECT_DIR$/../Curso de PHP/Estrutura Condicional (if)/.idea/estrutura_condicional.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../exercicio1_php/.idea/exercicio1_php.iml" filepath="$PROJECT_DIR$/../exercicio1_php/.idea/exercicio1_php.iml" />
       <module fileurl="file://$PROJECT_DIR$/../exercicio2_php/.idea/exercicio2_php.iml" filepath="$PROJECT_DIR$/../exercicio2_php/.idea/exercicio2_php.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../exercicio3_php/.idea/exercicio3_php.iml" filepath="$PROJECT_DIR$/../exercicio3_php/.idea/exercicio3_php.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../exercicio4_php/.idea/exercicio4_php.iml" filepath="$PROJECT_DIR$/../exercicio4_php/.idea/exercicio4_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicio_php.iml" filepath="$PROJECT_DIR$/.idea/exercicio_php.iml" />
     </modules>
   </component>
 </project>
