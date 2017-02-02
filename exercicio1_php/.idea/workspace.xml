@@ -15,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="formulario_estados.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formulario_estados.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../exercicio4_php/formulario_estados.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercicio5.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../exercicio5_php/exercicio5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,6 +74,7 @@
         <option value="$PROJECT_DIR$/../exercicio3_php/formulario_semana.html" />
         <option value="$PROJECT_DIR$/../exercicio4_php/formulario_estados.html" />
         <option value="$PROJECT_DIR$/../exercicio4_php/estados.php" />
+        <option value="$PROJECT_DIR$/../exercicio5_php/exercicio5.php" />
       </list>
     </option>
   </component>
@@ -105,17 +116,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="exercicio4_php" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercicio1_php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercicio1_php" />
+              <option name="myItemId" value="exercicio5_php" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -132,6 +133,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leandro\Documents\GitHub\Curso_php\exercicio5_php" />
       <recent name="C:\Users\leandro\Documents\GitHub\Curso_php\exercicio4_php" />
       <recent name="C:\Users\leandro\Documents\GitHub\Curso_php\exercicio3_php" />
       <recent name="C:\Users\leandro\Documents\GitHub\Curso_php\exercicio2_php" />
@@ -206,16 +208,16 @@
       <option name="presentableId" value="Default" />
       <updated>1484657233035</updated>
       <workItem from="1484657234964" duration="10429000" />
-      <workItem from="1484748631742" duration="5125000" />
+      <workItem from="1484748631742" duration="6813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15554000" />
+    <option name="totallyTimeSpent" value="17242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37408492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -407,7 +409,15 @@
     <entry file="file://$PROJECT_DIR$/../exercicio4_php/formulario_estados.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercicio5_php/exercicio5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
