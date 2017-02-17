@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso_php.iml" filepath="$PROJECT_DIR$/.idea/Curso_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio10_php/.idea/exercicio10.iml" filepath="$PROJECT_DIR$/exercicio10_php/.idea/exercicio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio11_php/.idea/exercicio11_php.iml" filepath="$PROJECT_DIR$/exercicio11_php/.idea/exercicio11_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio12_php/.idea/exercicio12_php.iml" filepath="$PROJECT_DIR$/exercicio12_php/.idea/exercicio12_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio9_php/.idea/exercicio9_php.iml" filepath="$PROJECT_DIR$/exercicio9_php/.idea/exercicio9_php.iml" />
     </modules>
   </component>
 </project>

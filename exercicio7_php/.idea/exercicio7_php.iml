@@ -14,9 +14,5 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="exercicio9_php" />
-    <orderEntry type="module" module-name="exercicio10_php" />
-    <orderEntry type="module" module-name="exercicio11_php" />
-    <orderEntry type="module" module-name="exercicio12_php" />
   </component>
 </module>
